@@ -23,9 +23,9 @@ Both options:
 
 ---
 
-> [!AI Disclaimer]
-> These scripts were written with the help of AI.
-> The code is simple and contains nothing malicious, but if you don't feel comfortable running AI-generated code, that's completely fine. Just don't use them.
+> [!IMPORTANT]
+> **These scripts were written with the help of AI**.
+> The code is simple and contains nothing malicious, but **if you don't feel comfortable running AI-generated code, that's completely fine. Just don't use them.**
 
 ## Option 1: uBlock Origin
 
