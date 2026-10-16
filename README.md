@@ -1,7 +1,7 @@
 <p align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/logo_dark.svg">
-      <img alt="Youtube-NO_GIF Logo" src="assets/logo_white.svg" width="200">
+      <source media="(prefers-color-scheme: dark)" srcset="assets/logo_dark-v2.svg">
+      <img alt="Youtube-NO_GIF Logo" src="assets/logo_white-v2.svg" width="200">
     </picture>
 </p>
 
