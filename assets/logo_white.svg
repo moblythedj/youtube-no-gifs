@@ -1,18 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 145.494 27.637">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 188.16 21.868">
   <defs>
     <style>
-      .cls-1{fill:#ffffff}
-      .cls-2{font-family:&apos;Ubuntu Sans&apos;;font-size:12;font-weight:100;fill:#ed1c24}
-      .cls-3{fill:#ffffff;stroke:#000000;stroke-miterlimit:10}
+      .cls-1{font-family:&apos;Ubuntu Mono&apos;;font-size:24;font-weight:bold;fill:#ffffff}
+      .cls-2{fill:#000000}
+      .cls-3{fill:#de3830}
     </style>
   </defs>
-  <title>akar-icons--youtube-fill.svg</title>
+  <title>Untitled-1</title>
   <g id="Layer_1" data-name="Layer 1">
-    <path d="M37.876 5.209 C37.662 4.449 37.247 3.762 36.675 3.218 C36.086 2.659 35.364 2.258 34.578 2.055 C31.634 1.279 19.841 1.279 19.841 1.279 C14.925 1.225 10.01 1.471 5.124 2.016 C4.337 2.234 3.617 2.644 3.026 3.207 C2.447 3.765 2.026 4.453 1.807 5.207 C1.279 8.047 1.023 10.93 1.042 13.818 C1.023 16.704 1.279 19.586 1.807 22.43 C2.022 23.18 2.44 23.865 3.022 24.419 C3.603 24.972 4.327 25.372 5.124 25.583 C8.106 26.357 19.841 26.357 19.841 26.357 C24.764 26.413 29.685 26.167 34.578 25.621 C35.364 25.418 36.086 25.017 36.675 24.458 C37.246 23.914 37.66 23.226 37.874 22.467 C38.415 19.629 38.678 16.744 38.659 13.855 C38.7 10.953 38.437 8.055 37.876 5.207 M16.092 19.185 L16.092 8.453 M16.092 8.453 L25.904 13.82 M25.904 13.82 L16.092 19.185" class="cls-1"/>
-    <text transform="matrix(2.378 0 0 2.378 50.424 22.25)" x="0" y="0" xml:space="preserve" class="cls-2"><tspan x="0" y="0">NO_GIF</tspan></text>
+    <text transform="matrix(1 0 0 1 0 17.332)" x="0" y="0" xml:space="preserve" class="cls-1"><tspan x="0" y="0">YOUTUBE</tspan><tspan x="94.08" y="0" class="cls-2"> </tspan><tspan x="107.52" y="0" class="cls-3">NO_GIF</tspan></text>
     <g id="Layer_2" data-name="Layer 2" data-vc-layer="sublayer">
     </g>
-    <path d="M15.051 7.181" class="cls-3"/>
   </g>
 </svg>
