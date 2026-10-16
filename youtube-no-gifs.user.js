@@ -5,6 +5,7 @@
 // @description  Hides GIF attachments in YouTube comments and stops them from downloading
 // @match        https://www.youtube.com/*
 // @run-at       document-start
+// @license      MIT
 // @grant        none
 // @homepageURL  https://github.com/moblythedj/youtube-no-gifs
 // @updateURL    https://raw.githubusercontent.com/moblythedj/youtube-no-gifs/main/youtube-no-gifs.user.js

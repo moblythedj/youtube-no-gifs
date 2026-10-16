@@ -125,3 +125,7 @@ https://i.ytimg.com/c_exp/<comment-id>/<image-id>_webp_animated_original_aspect_
 - **uBlock Origin:** remove the list from **Filter lists → Custom**, or delete the two
   lines from **My filters**, then click **Apply changes**.
 - **Tampermonkey:** open the Tampermonkey dashboard and click the bin icon next to the script.
+
+## License
+
+[MIT](LICENSE)
