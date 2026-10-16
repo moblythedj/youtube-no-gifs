@@ -1,3 +1,10 @@
+<p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://files.catbox.moe/7asp9v.svg">
+      <img alt="Youtube-NO_GIF Logo" src="https://files.catbox.moe/7buq3l.svg" width="200">
+    </picture>
+</p>
+
 # YouTube: No Comment GIFs
 
 YouTube now lets people post GIFs in comments. This repository removes them, using
