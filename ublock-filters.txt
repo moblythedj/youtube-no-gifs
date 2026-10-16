@@ -1,0 +1,9 @@
+! Title: YouTube: No Comment GIFs
+! Description: Hides GIF attachments in YouTube comments and stops them from downloading
+! Expires: 7 days
+
+! Hide the GIF attachment box under comments
+www.youtube.com##ytw-comment-image-attachment-view-model
+
+! Stop the animated GIF files from downloading at all
+||i.ytimg.com/c_exp/*_webp_animated_$image
